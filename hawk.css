@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+     margin: 0;
+    padding: 0;
+    background-image: url('https://source.unsplash.com/random/?farm,farm'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.hero {
+    padding: 4rem 0;
+    background-color: #D2DE32;
+}
+
+.features, .pricing, .contact {
+    padding: 4rem 0;
+
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+footer {
+    padding: 2rem 0;
+    background-color: #D2DE32;
+}
+
+h3 {
+    color: #F7F7F7;
+
+}
+h2 {
+    color: #F7F7F7;
+
+}
+
+.edit{
+color: #F7F7F7;
+}
